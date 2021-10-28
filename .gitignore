@@ -1,0 +1,16 @@
+# Modules can be installed via `yarn` or `npm`
+node_modules
+
+# Lock files aren't neccessary
+yarn.lock
+*.lock
+
+package-lock.json
+
+# Build folders
+build/
+dist/
+out/
+
+# etc.
+bin/
